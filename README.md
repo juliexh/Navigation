@@ -13,10 +13,5 @@ The task is episodic, and in order to solve the environment, your agent must get
 ## Step 1: Clone the DRLND Repository
 Please follow the instructions in the DRLND GitHub repository (https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. These instructions can be found in README.md at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
 ## Step 2: Download the Unity Environment
-You can download the environment from one of the links below. You need only select the environment that matches your operating system:
-
-- Linux: click here
-- Mac OSX: click here
-- Windows (32-bit): click here
-- Windows (64-bit): click here
+You can download the environment from DRLND GitHub repository (https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation)
 Then, place the file in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
